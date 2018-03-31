@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Алексей Тиабалду](https://up.htmlacademy.ru/javascript/13/user/175400).
-* Наставник: `Неизвестно`.
+* Наставник: [Лерун](https://htmlacademy.ru/profile/id425717).
 
 ---
 
